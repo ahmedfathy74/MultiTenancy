@@ -1,0 +1,5 @@
+@host = https://localhost:7237
+
+GET {{host}}/api/products
+
+###
